@@ -14,7 +14,7 @@ https://github.com/ipython/ipython
 https://github.com/astropy/astropy
 
 ## Web Frameworks
-* https://github.com/showcases/web-application-frameworks
+https://github.com/showcases/web-application-frameworks
 
 ## Deployment Tool
 https://github.com/showcases/devops-tools
