@@ -1,6 +1,5 @@
-# references
+# Good references
 
-Good references:
 
 ## Git Pages
 https://github.com/showcases/github-pages-examples
