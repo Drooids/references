@@ -16,6 +16,9 @@ https://github.com/astropy/astropy
 ## Web Frameworks
 https://github.com/showcases/web-application-frameworks
 
+## Best Practices
+https://github.com/linnovate/mean
+
 ## Deployment Tool
 https://github.com/showcases/devops-tools
 https://github.com/docker/docker
