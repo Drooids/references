@@ -29,4 +29,4 @@ https://github.com/showcases/github-pages-examples
 
 ## Others
 ### Mobile
-http://snowbuddyhq.com/
+Example show case: http://snowbuddyhq.com/
