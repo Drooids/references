@@ -29,4 +29,6 @@ https://github.com/showcases/github-pages-examples
 
 ## Others
 ### Mobile
-Example show case: http://snowbuddyhq.com/
+Example show case: 
+* http://snowbuddyhq.com/
+* http://wemakeawesomesh.it/#work (There are tons of idiods :D>)
