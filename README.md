@@ -38,6 +38,7 @@ https://www.conted.ox.ac.uk/courses/results.php?Category=100
 http://www.distance.ufl.edu/bachelors
 
 ## Others
+http://www.konami.co.jp/en/job/career/
 ### Mobile
 Example show case: 
 * http://snowbuddyhq.com/
