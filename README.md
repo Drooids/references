@@ -28,6 +28,15 @@ https://github.com/ansible/ansible
 ## Git Pages
 https://github.com/showcases/github-pages-examples
 
+## Academic
+http://www.bestcollegereviews.org/top/online-computer-science-programs/
+http://www.studyportals.eu/
+https://www.coursera.org/
+http://ocw.mit.edu/courses/
+https://www.edx.org/
+https://www.conted.ox.ac.uk/courses/results.php?Category=100
+http://www.distance.ufl.edu/bachelors
+
 ## Others
 ### Mobile
 Example show case: 
