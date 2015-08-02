@@ -13,7 +13,10 @@ https://github.com/dojo/dojo
 
 ## Web Frameworks
 https://github.com/showcases/web-application-frameworks
+
+**View**
 http://topcoat.io/
+http://designmodo.github.io/Flat-UI/
 
 ## Best Practices
 https://github.com/linnovate/mean
