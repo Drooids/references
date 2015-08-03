@@ -42,7 +42,8 @@ https://www.coursera.org/ <br>
 http://ocw.mit.edu/courses/ <br>
 https://www.edx.org/ <br>
 https://www.conted.ox.ac.uk/courses/results.php?Category=100 <br>
-http://www.distance.ufl.edu/bachelors
+http://www.distance.ufl.edu/bachelors <br>
+http://www.goodreads.com/author/show/14011243.Code_Well_Academy
 
 ## Others
 http://www.konami.co.jp/en/job/career/
