@@ -17,7 +17,8 @@ https://github.com/showcases/web-application-frameworks <br>
 -**View** <br>
 http://topcoat.io/ <br>
 http://designmodo.github.io/Flat-UI/ <br>
-https://fezvrasta.github.io/bootstrap-material-design/
+https://fezvrasta.github.io/bootstrap-material-design/ <br>
+http://semantic-ui.com
 
 ## Best Practices
 https://github.com/linnovate/mean
