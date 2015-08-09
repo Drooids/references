@@ -10,6 +10,7 @@ https://github.com/astropy/astropy
 
 ### Software maintenance
 https://hubot.github.com/
+http://clabot.github.io/
 
 ## JS Frameworks
 https://github.com/showcases/front-end-javascript-frameworks <br>
