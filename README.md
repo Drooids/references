@@ -9,7 +9,7 @@ https://github.com/ipython/ipython <br>
 https://github.com/astropy/astropy 
 
 ### Software maintenance
-https://hubot.github.com/
+https://hubot.github.com/ <br>
 http://clabot.github.io/
 
 ## JS Frameworks
