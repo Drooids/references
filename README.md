@@ -12,7 +12,12 @@ https://github.com/astropy/astropy
 https://hubot.github.com/ <br>
 http://clabot.github.io/
 
-## JS Frameworks
+## JS
+
+**Plugins**
+http://angular-ui.github.io/
+
+**Framework**
 https://github.com/showcases/front-end-javascript-frameworks <br>
 https://github.com/dojo/dojo <br>
 
