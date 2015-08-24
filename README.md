@@ -13,11 +13,10 @@ https://hubot.github.com/ <br>
 http://clabot.github.io/
 
 ## JS
-
-**Plugins**
+**Plugins**<br>
 http://angular-ui.github.io/
 
-**Framework**
+**Framework**<br>
 https://github.com/showcases/front-end-javascript-frameworks <br>
 https://github.com/dojo/dojo <br>
 
