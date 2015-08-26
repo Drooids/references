@@ -13,6 +13,10 @@ https://hubot.github.com/ <br>
 http://clabot.github.io/
 
 ## JS
+
+**Before Everything**
+<a href='https://www.google.no/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB0QFjAAahUKEwiOwbe34sbHAhXHBiwKHaq7AEE&url=http%3A%2F%2Fbitworking.org%2Fnews%2F2014%2F05%2Fzero_framework_manifesto&ei=rbPdVc62LceNsAGq94KIBA&usg=AFQjCNGNKo3yiH4qOpZKJekxKrCrNHIT3A&sig2=fy44kCLdCN8NGMjGFjDP1g'>Read me</a>
+
 **Plugins**<br>
 http://angular-ui.github.io/
 
