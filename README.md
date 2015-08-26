@@ -1,7 +1,9 @@
-## Game Development
+> ## @Game Development
+
 https://github.com/showcases/web-games
 
-## Tools
+> ## @Tools
+
 ### Software development
 https://github.com/showcases/productivity-tools <br>
 https://github.com/showcases/science <br>
@@ -12,7 +14,7 @@ https://github.com/astropy/astropy
 https://hubot.github.com/ <br>
 http://clabot.github.io/
 
-## JS
+> ## @JS
 
 **Before Everything**<br>
 <a href='https://www.google.no/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB0QFjAAahUKEwiOwbe34sbHAhXHBiwKHaq7AEE&url=http%3A%2F%2Fbitworking.org%2Fnews%2F2014%2F05%2Fzero_framework_manifesto&ei=rbPdVc62LceNsAGq94KIBA&usg=AFQjCNGNKo3yiH4qOpZKJekxKrCrNHIT3A&sig2=fy44kCLdCN8NGMjGFjDP1g'>Read me</a>
@@ -24,7 +26,7 @@ http://angular-ui.github.io/
 https://github.com/showcases/front-end-javascript-frameworks <br>
 https://github.com/dojo/dojo <br>
 
-## Web Frameworks
+> ## @Web Frameworks
 https://github.com/showcases/web-application-frameworks <br>
 
 -**View** <br>
@@ -33,22 +35,27 @@ http://designmodo.github.io/Flat-UI/ <br>
 https://fezvrasta.github.io/bootstrap-material-design/ <br>
 http://semantic-ui.com
 
-## Best Practices
+> ## @Best Practices
+
 https://github.com/linnovate/mean
 
-## Deployment Tool
+> ## @Deployment Tool
+
 https://github.com/showcases/projects-that-power-github <br>
 https://github.com/showcases/devops-tools <br>
 https://github.com/docker/docker <br>
 https://github.com/ansible/ansible
 
-## Self-host apps
+> ## @Self-host apps
+
 https://github.com/Drooids/awesome-selfhosted
 
-## Git Pages
+> ## @Git Pages
+
 https://github.com/showcases/github-pages-examples
 
-## Academic
+> ## @Academic
+
 http://www.bestcollegereviews.org/top/online-computer-science-programs/ <br>
 http://www.studyportals.eu/ <br>
 https://www.coursera.org/ <br>
@@ -62,11 +69,14 @@ https://books.google.no/books?id=C3_WIQOYE2EC&pg=PR10&lpg=PR10&dq=linus+about+co
 ### Processing
 https://processing.org/
 
-## GNOME
+> ## @GNOME
+
 https://github.com/GNOME
 
-## Others
+> ## @Others
+
 http://www.konami.co.jp/en/job/career/
+
 ### Mobile
 Example show case: 
 * http://snowbuddyhq.com/ <br>
