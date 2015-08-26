@@ -35,6 +35,13 @@ http://semantic-ui.com
 ## @Best Practices
 https://github.com/linnovate/mean
 
+**Good Examples**<br>
+https://goo.gl/zqi1vh<br>
+https://goo.gl/R2vBf<br>
+https://goo.gl/NX3Ho6<br>
+https://goo.gl/HmXj2o<br>
+https://c9.io<br>
+
 ## @Deployment Tool
 https://github.com/showcases/projects-that-power-github <br>
 https://github.com/showcases/devops-tools <br>
