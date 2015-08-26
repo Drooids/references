@@ -23,7 +23,7 @@ http://angular-ui.github.io/
 https://github.com/showcases/front-end-javascript-frameworks <br>
 https://github.com/dojo/dojo <br>
 
-> ## @Web Frameworks
+## @Web Frameworks
 https://github.com/showcases/web-application-frameworks <br>
 
 -**View** <br>
