@@ -77,7 +77,7 @@ https://github.com/GNOME
 ## @Others
 http://www.konami.co.jp/en/job/career/
 
-### Clouds
+### Clouds<br> 
 https://www.joyent.com
 
 ### Mobile
