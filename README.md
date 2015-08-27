@@ -77,6 +77,9 @@ https://github.com/GNOME
 ## @Others
 http://www.konami.co.jp/en/job/career/
 
+### Clouds
+https://www.joyent.com
+
 ### Mobile
 Example show case: 
 * http://snowbuddyhq.com/ <br>
