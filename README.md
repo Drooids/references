@@ -1,6 +1,18 @@
 ## @Game Development
 https://github.com/showcases/web-games
  
+## @Academic
+**http://thecodeship.com/general/quality-computer-science-education-free-yes-please/** <br>
+http://www.bestcollegereviews.org/top/online-computer-science-programs/ <br>
+http://www.studyportals.eu/ <br>
+https://www.coursera.org/ <br>
+http://ocw.mit.edu/courses/ <br>
+https://www.edx.org/ <br>
+https://www.conted.ox.ac.uk/courses/results.php?Category=100 <br>
+http://www.distance.ufl.edu/bachelors <br>
+http://www.goodreads.com/author/show/14011243.Code_Well_Academy <br>
+https://books.google.no/books?id=C3_WIQOYE2EC&pg=PR10&lpg=PR10&dq=linus+about+computer+architecture&source=bl&ots=G8PkYEb1AT&sig=pqWqTDnTL5-Rzhb40KX1C1eZP6Y&hl=en&sa=X&redir_esc=y#v=onepage&q=linus%20about%20computer%20architecture&f=false
+ 
 ## @Tools
 ### Software development
 https://github.com/showcases/productivity-tools <br>
@@ -56,17 +68,6 @@ https://github.com/Drooids/awesome-selfhosted
 
 ## @Git Pages
 https://github.com/showcases/github-pages-examples
-
-## @Academic
-http://www.bestcollegereviews.org/top/online-computer-science-programs/ <br>
-http://www.studyportals.eu/ <br>
-https://www.coursera.org/ <br>
-http://ocw.mit.edu/courses/ <br>
-https://www.edx.org/ <br>
-https://www.conted.ox.ac.uk/courses/results.php?Category=100 <br>
-http://www.distance.ufl.edu/bachelors <br>
-http://www.goodreads.com/author/show/14011243.Code_Well_Academy <br>
-https://books.google.no/books?id=C3_WIQOYE2EC&pg=PR10&lpg=PR10&dq=linus+about+computer+architecture&source=bl&ots=G8PkYEb1AT&sig=pqWqTDnTL5-Rzhb40KX1C1eZP6Y&hl=en&sa=X&redir_esc=y#v=onepage&q=linus%20about%20computer%20architecture&f=false
 
 ### Processing
 https://processing.org/
