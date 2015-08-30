@@ -2,7 +2,7 @@
 https://github.com/showcases/web-games
  
 ## @Academic
-<a hred='http://thecodeship.com/general/quality-computer-science-education-free-yes-please/'>**CS Degree**</a> <br>
+<a href='http://thecodeship.com/general/quality-computer-science-education-free-yes-please/'>**CS Degree**</a> <br>
 http://www.bestcollegereviews.org/top/online-computer-science-programs/ <br>
 http://www.studyportals.eu/ <br>
 https://www.coursera.org/ <br>
