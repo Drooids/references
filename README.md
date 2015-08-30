@@ -3,15 +3,15 @@ https://github.com/showcases/web-games
  
 ## @Academic
 <a href='http://thecodeship.com/general/quality-computer-science-education-free-yes-please/'>**CS Degree**</a> <br>
-http://www.bestcollegereviews.org/top/online-computer-science-programs/ <br>
-http://www.studyportals.eu/ <br>
-https://www.coursera.org/ <br>
-http://ocw.mit.edu/courses/ <br>
-https://www.edx.org/ <br>
-https://www.conted.ox.ac.uk/courses/results.php?Category=100 <br>
-http://www.distance.ufl.edu/bachelors <br>
-http://www.goodreads.com/author/show/14011243.Code_Well_Academy <br>
-https://books.google.no/books?id=C3_WIQOYE2EC&pg=PR10&lpg=PR10&dq=linus+about+computer+architecture&source=bl&ots=G8PkYEb1AT&sig=pqWqTDnTL5-Rzhb40KX1C1eZP6Y&hl=en&sa=X&redir_esc=y#v=onepage&q=linus%20about%20computer%20architecture&f=false
+<a href='http://www.bestcollegereviews.org/top/online-computer-science-programs/ <br>'>bestcollegereviews</a><br>
+<a href='http://ocw.mit.edu/courses/'>mit</a><br>
+<a href='http://www.studyportals.eu/'>studyportals</a><br>
+<a href='https://www.coursera.org/'>coursera</a><br>
+<a href='https://www.edx.org/'>edx</a><br>
+<a href='https://www.conted.ox.ac.uk/courses/results.php?Category=100'>conted</a><br>
+<a href='http://www.distance.ufl.edu/bachelors'>ufl</a><br>
+<a href='http://www.goodreads.com/author/show/14011243.Code_Well_Academy'>goodreads</a><br>
+<a href='https://books.google.no/books?id=C3_WIQOYE2EC&pg=PR10&lpg=PR10&dq=linus+about+computer+architecture&source=bl&ots=G8PkYEb1AT&sig=pqWqTDnTL5-Rzhb40KX1C1eZP6Y&hl=en&sa=X&redir_esc=y#v=onepage&q=linus%20about%20computer%20architecture&f=false'>computer architecture</a>
  
 ## @Tools
 ### Software development
