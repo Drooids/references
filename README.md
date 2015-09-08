@@ -13,7 +13,7 @@ https://github.com/showcases/web-games
 <a href='http://www.goodreads.com/author/show/14011243.Code_Well_Academy'>goodreads</a><br>
 <a href='https://books.google.no/books?id=C3_WIQOYE2EC&pg=PR10&lpg=PR10&dq=linus+about+computer+architecture&source=bl&ots=G8PkYEb1AT&sig=pqWqTDnTL5-Rzhb40KX1C1eZP6Y&hl=en&sa=X&redir_esc=y#v=onepage&q=linus%20about%20computer%20architecture&f=false'>computer architecture</a>
  
-## @Tools
+## @Software
 ### Software development
 https://github.com/showcases/productivity-tools <br>
 https://github.com/showcases/science <br>
@@ -26,6 +26,12 @@ http://clabot.github.io/
 
 ### Software testing
 http://galenframework.com/
+
+### Software Deployment
+https://github.com/showcases/projects-that-power-github <br>
+https://github.com/showcases/devops-tools <br>
+https://github.com/docker/docker <br>
+https://github.com/ansible/ansible
 
 ## @JS
 **Before Everything**<br>
@@ -58,12 +64,6 @@ https://goo.gl/NX3Ho6<br>
 https://goo.gl/HmXj2o<br>
 https://c9.io<br>
 https://goo.gl/B19VDe<br>
-
-## @Deployment Tool
-https://github.com/showcases/projects-that-power-github <br>
-https://github.com/showcases/devops-tools <br>
-https://github.com/docker/docker <br>
-https://github.com/ansible/ansible
 
 ## @Self-host apps
 https://github.com/Drooids/awesome-selfhosted
