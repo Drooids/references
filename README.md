@@ -76,10 +76,11 @@ https://processing.org/
 https://github.com/GNOME
 
 ## @Others
-http://www.konami.co.jp/en/job/career/
-https://coinmap.org/#/map/34.63592682/135.54180622/15
+http://www.konami.co.jp/en/job/career/ <br>
+https://coinmap.org/#/map/34.63592682/135.54180622/15 <br>
+http://bhaisaab.org/
 
-### Clouds<br> 
+### Clouds
 https://www.joyent.com
 
 ### Mobile
