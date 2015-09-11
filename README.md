@@ -13,6 +13,9 @@ https://github.com/showcases/web-games
 <a href='http://www.goodreads.com/author/show/14011243.Code_Well_Academy'>goodreads</a><br>
 <a href='https://books.google.no/books?id=C3_WIQOYE2EC&pg=PR10&lpg=PR10&dq=linus+about+computer+architecture&source=bl&ots=G8PkYEb1AT&sig=pqWqTDnTL5-Rzhb40KX1C1eZP6Y&hl=en&sa=X&redir_esc=y#v=onepage&q=linus%20about%20computer%20architecture&f=false'>computer architecture</a>
  
+## @Challenges
+http://codecondo.com/coding-challenges/
+ 
 ## @Software
 ### Software development
 https://github.com/showcases/productivity-tools <br>
