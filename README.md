@@ -97,4 +97,5 @@ Example show case:
 * http://wemakeawesomesh.it/#work (There are tons of idiods :D>)
 
 ## @UI
+http://www.qt.io/developers/ <br>
 https://playbook.cio.gov
