@@ -4,7 +4,7 @@ https://github.com/showcases/web-games
 ## @Academic
 <a href='http://thecodeship.com/general/quality-computer-science-education-free-yes-please/'>**CS Degree**</a> <br>
 <a href='http://stackoverflow.com/questions/107059/how-much-mathematics-and-physics-should-a-programmer-know'>**Math -> Physics -> Programming**</a><br>
-<a href='http://www.bestcollegereviews.org/top/online-computer-science-programs/ <br>'>bestcollegereviews</a><br>
+<a href='http://www.bestcollegereviews.org/top/online-computer-science-programs/bestcollegereviews'>bestcollegereviews</a><br>
 <a href='http://ocw.mit.edu/courses/'>mit</a><br>
 <a href='http://www.studyportals.eu/'>studyportals</a><br>
 <a href='https://www.coursera.org/'>coursera</a><br>
