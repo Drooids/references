@@ -1,5 +1,5 @@
 ## @Game Development
-<a href='https://github.com/showcases/web-games'>Web-games</a><br>
+<a href='https://github.com/showcases/web-games'>Web games</a><br>
 <a href='http://gamedev.stackexchange.com/questions/1265/must-read-game-development-books'>Cool books</a><br>
 
  
