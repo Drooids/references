@@ -1,5 +1,6 @@
 ## @Game Development
-https://github.com/showcases/web-games
+https://github.com/showcases/web-games<br>
+http://gamedev.stackexchange.com/questions/1265/must-read-game-development-books
  
 ## @Academic
 <a href='http://thecodeship.com/general/quality-computer-science-education-free-yes-please/'>**CS Degree**</a> <br>
