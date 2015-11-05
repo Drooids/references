@@ -21,7 +21,8 @@
 <a href="http://www.kirupa.com/">kirupa</a>
 
 ## @Challenges
-http://codecondo.com/coding-challenges/
+http://codecondo.com/coding-challenges/<br>
+http://eudyptula-challenge.org/
  
 ## @Software
 ### Software development
@@ -80,9 +81,6 @@ https://goo.gl/NX3Ho6<br>
 https://goo.gl/HmXj2o<br>
 https://c9.io<br>
 https://goo.gl/B19VDe<br>
-
-## @Fun stuff and challenge
-http://eudyptula-challenge.org/
 
 ## @Self-host apps
 https://github.com/Drooids/awesome-selfhosted
