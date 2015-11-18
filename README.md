@@ -83,6 +83,7 @@ https://goo.gl/NX3Ho6<br>
 https://goo.gl/HmXj2o<br>
 https://c9.io<br>
 https://goo.gl/B19VDe<br>
+https://webftp.dreamhost.com/ws-WebFTP/public_html<br>
 
 ## @Self-host apps
 https://github.com/Drooids/awesome-selfhosted
