@@ -18,7 +18,7 @@
 <a href='http://www.essentialmath.com/'>Essencial</a></br>
 <a href='http://mrelusive.com/books/books.html'>All in one </a><br>
 <a href='http://gamedev.stackexchange.com/questions/1265/must-read-game-development-books'>Cool books</a><br>
-<a href='http://impactjs.com/'>http://impactjs.com/</a><br>
+<a href='http://impactjs.com/'>Game engine - impactjs</a><br>
 
 ## @Data Mining
 <a href='https://github.com/hangtwenty/dive-into-machine-learning?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily'>Dive into machine learning</a>
