@@ -10,7 +10,7 @@
 <a href='http://www.distance.ufl.edu/bachelors'>ufl</a><br>
 <a href='http://www.goodreads.com/author/show/14011243.Code_Well_Academy'>goodreads</a><br>
 <a href='https://books.google.no/books?id=C3_WIQOYE2EC&pg=PR10&lpg=PR10&dq=linus+about+computer+architecture&source=bl&ots=G8PkYEb1AT&sig=pqWqTDnTL5-Rzhb40KX1C1eZP6Y&hl=en&sa=X&redir_esc=y#v=onepage&q=linus%20about%20computer%20architecture&f=false'>computer architecture</a><br>
-<a href="http://www.kirupa.com/">kirupa</a>
+<a href="http://www.kirupa.com/">kirupa</a>ga
 
 ## @Game Development
 <a href='https://github.com/showcases/web-games'>Web games</a><br>
@@ -18,6 +18,7 @@
 <a href='http://www.essentialmath.com/'>Essencial</a></br>
 <a href='http://mrelusive.com/books/books.html'>All in one </a><br>
 <a href='http://gamedev.stackexchange.com/questions/1265/must-read-game-development-books'>Cool books</a><br>
+<a href='http://impactjs.com/'>http://impactjs.com/</a><br>
 
 ## @Data Mining
 <a href='https://github.com/hangtwenty/dive-into-machine-learning?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily'>Dive into machine learning</a>
