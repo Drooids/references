@@ -1,16 +1,17 @@
 ## @Academic
 <a href='http://thecodeship.com/general/quality-computer-science-education-free-yes-please/'>**CS Degree**</a> <br>
 <a href='http://stackoverflow.com/questions/107059/how-much-mathematics-and-physics-should-a-programmer-know'>**Math -> Physics -> Programming**</a><br>
-<a href='http://www.bestcollegereviews.org/top/online-computer-science-programs/bestcollegereviews'>bestcollegereviews</a><br>
-<a href='http://ocw.mit.edu/courses/'>mit</a><br>
-<a href='http://www.studyportals.eu/'>studyportals</a><br>
-<a href='https://www.coursera.org/'>coursera</a><br>
-<a href='https://www.edx.org/'>edx</a><br>
-<a href='https://www.conted.ox.ac.uk/courses/results.php?Category=100'>conted</a><br>
-<a href='http://www.distance.ufl.edu/bachelors'>ufl</a><br>
-<a href='http://www.goodreads.com/author/show/14011243.Code_Well_Academy'>goodreads</a><br>
-<a href='https://books.google.no/books?id=C3_WIQOYE2EC&pg=PR10&lpg=PR10&dq=linus+about+computer+architecture&source=bl&ots=G8PkYEb1AT&sig=pqWqTDnTL5-Rzhb40KX1C1eZP6Y&hl=en&sa=X&redir_esc=y#v=onepage&q=linus%20about%20computer%20architecture&f=false'>computer architecture</a><br>
-<a href="http://www.kirupa.com/">kirupa</a>ga
+<a href='http://www.bestcollegereviews.org/top/online-computer-science-programs/bestcollegereviews'>Bestcollegereviews</a><br>
+<a href='http://ocw.mit.edu/courses/'>MIT</a><br>
+<a href='http://www.studyportals.eu/'>Studyportals</a><br>
+<a href='https://www.coursera.org/'>Coursera</a><br>
+<a href='https://www.edx.org/'>dx</a><br>
+<a href='https://www.conted.ox.ac.uk/courses/results.php?Category=100'>Conted</a><br>
+<a href='http://www.distance.ufl.edu/bachelors'>UFL</a><br>
+<a href='http://www.goodreads.com/author/show/14011243.Code_Well_Academy'>Goodreads</a><br>
+<a href='https://books.google.no/books?id=C3_WIQOYE2EC&pg=PR10&lpg=PR10&dq=linus+about+computer+architecture&source=bl&ots=G8PkYEb1AT&sig=pqWqTDnTL5-Rzhb40KX1C1eZP6Y&hl=en&sa=X&redir_esc=y#v=onepage&q=linus%20about%20computer%20architecture&f=false'>Computer architecture</a><br>
+<a href='http://www.kirupa.com/'>Kirupa</a><br>
+<a href='http://www.cs.ucla.edu/'>Ucla</a>
 
 ## @Game Development
 <a href='https://github.com/showcases/web-games'>Web games</a><br>
