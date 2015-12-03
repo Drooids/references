@@ -5,7 +5,7 @@
 <a href='http://ocw.mit.edu/courses/'>MIT</a><br>
 <a href='http://www.studyportals.eu/'>Studyportals</a><br>
 <a href='https://www.coursera.org/'>Coursera</a><br>
-<a href='https://www.edx.org/'>dx</a><br>
+<a href='https://www.edx.org/'>EDX</a><br>
 <a href='https://www.conted.ox.ac.uk/courses/results.php?Category=100'>Conted</a><br>
 <a href='http://www.distance.ufl.edu/bachelors'>UFL</a><br>
 <a href='http://www.goodreads.com/author/show/14011243.Code_Well_Academy'>Goodreads</a><br>
