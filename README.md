@@ -11,7 +11,8 @@
 <a href='http://www.goodreads.com/author/show/14011243.Code_Well_Academy'>Goodreads</a><br>
 <a href='https://books.google.no/books?id=C3_WIQOYE2EC&pg=PR10&lpg=PR10&dq=linus+about+computer+architecture&source=bl&ots=G8PkYEb1AT&sig=pqWqTDnTL5-Rzhb40KX1C1eZP6Y&hl=en&sa=X&redir_esc=y#v=onepage&q=linus%20about%20computer%20architecture&f=false'>Computer architecture</a><br>
 <a href='http://www.kirupa.com/'>Kirupa</a><br>
-<a href='http://www.cs.ucla.edu/'>Ucla</a>
+<a href='http://www.cs.ucla.edu/'>Ucla</a><br>
+<a href='http://www.google.is/about/careers/students/guide-to-technical-development.html'>Google careers</a>
 
 ## @Game Development
 <a href='https://github.com/showcases/web-games'>Web games</a><br>
