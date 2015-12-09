@@ -12,7 +12,8 @@
 <a href='https://books.google.no/books?id=C3_WIQOYE2EC&pg=PR10&lpg=PR10&dq=linus+about+computer+architecture&source=bl&ots=G8PkYEb1AT&sig=pqWqTDnTL5-Rzhb40KX1C1eZP6Y&hl=en&sa=X&redir_esc=y#v=onepage&q=linus%20about%20computer%20architecture&f=false'>Computer architecture</a><br>
 <a href='http://www.kirupa.com/'>Kirupa</a><br>
 <a href='http://www.cs.ucla.edu/'>Ucla</a><br>
-<a href='http://www.google.is/about/careers/students/guide-to-technical-development.html'>Google careers</a>
+<a href='http://www.google.is/about/careers/students/guide-to-technical-development.html'>Google careers</a><br>
+<a href='http://www.mpi-sws.org/index.php'>Max Planck Institute for Software Systems (MPI-SWS)</a>
 
 ## @Game Development
 <a href='https://github.com/showcases/web-games'>Web games</a><br>
