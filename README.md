@@ -1,5 +1,5 @@
 ## @Academic
-* <a href='http://thecodeship.com/general/quality-computer-science-education-free-yes-please/'>**CS Degree**</a> 
+* <a href='http://thecodeship.com/general/quality-computer-science-education-free-yes-please/'>**CS Degree**</a>
 * <a href='http://stackoverflow.com/questions/107059/how-much-mathematics-and-physics-should-a-programmer-know'>**Math -> Physics -> Programming**</a>
 * <a href='http://www.bestcollegereviews.org/top/online-computer-science-programs/bestcollegereviews'>Bestcollegereviews</a>
 * <a href='http://ocw.mit.edu/courses/'>MIT</a>
@@ -18,7 +18,7 @@
 ## @Game Development
 * <a href='https://github.com/showcases/web-games'>Web games</a>
 * <a href='https://github.com/leereilly/games'>More games</a>
-* <a href='http://www.essentialmath.com/'>Essencial</a><
+* <a href='http://www.essentialmath.com/'>Essencial</a>
 * <a href='http://mrelusive.com/books/books.html'>All in one </a>
 * <a href='http://gamedev.stackexchange.com/questions/1265/must-read-game-development-books'>Cool books</a>
 * <a href='http://impactjs.com/'>Game engine - impactjs</a>
@@ -32,16 +32,16 @@
 ## @Challenges
 * http://codecondo.com/coding-challenges/
 * http://eudyptula-challenge.org/
- 
+
 ## @Software
 ### Software development
 * https://github.com/showcases/productivity-tools
 * https://github.com/showcases/science
 * https://github.com/ipython/ipython
-* https://github.com/astropy/astropy 
+* https://github.com/astropy/astropy
 
 ### Software maintenance
-* https://hubot.github.com/ 
+* https://hubot.github.com/
 * http://clabot.github.io/
 
 ### Software testing
@@ -72,12 +72,12 @@
 * https://github.com/dojo/dojo
 
 ## @Web Frameworks
-**Client/Server Side** 
-* https://github.com/showcases/web-application-frameworks 
+**Client/Server Side**
+* https://github.com/showcases/web-application-frameworks
 
-**Client Side** 
-* http://topcoat.io/ 
-* http://designmodo.github.io/Flat-UI/ 
+**Client Side**
+* http://topcoat.io/
+* http://designmodo.github.io/Flat-UI/
 * https://fezvrasta.github.io/bootstrap-material-design/
 * http://semantic-ui.com
 
@@ -107,7 +107,7 @@
 
 ## @Others
 * http://www.konami.co.jp/en/job/career/ <br>
-* http://dena.com/intl/careers/positions/ <br> 
+* http://dena.com/intl/careers/positions/ <br>
 * https://coinmap.org/#/map/34.63592682/135.54180622/15 <br>
 * http://bhaisaab.org/
 
@@ -115,7 +115,7 @@
 * https://www.joyent.com
 
 ### Mobile
-Example show case: 
+Example show case:
 * http://snowbuddyhq.com/ <br>
 * http://wemakeawesomesh.it/#work (There are tons of idiods :D>)
 
