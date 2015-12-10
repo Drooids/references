@@ -14,6 +14,11 @@
 * <a href='http://www.cs.ucla.edu/'>Ucla</a>
 * <a href='http://www.google.is/about/careers/students/guide-to-technical-development.html'>Google careers</a>
 * <a href='http://www.mpi-sws.org/index.php'>Max Planck Institute for Software Systems (MPI-SWS)</a>
+* <a href='http://www.algebrah.com/'>Algebrah</a>
+* <a href='https://en.wikipedia.org/wiki/Algebra'>Algebra</a>
+* <a href='https://en.wikipedia.org/wiki/Relational_algebra'>Relational Algebra</a>
+* <a href='https://en.wikipedia.org/wiki/Boolean_algebra'>Boolean Algebra</a>
+* <a href='https://en.wikipedia.org/wiki/Heyting_algebra'>Heyting Algebra</a>
 
 ## @Game Development
 * <a href='https://github.com/showcases/web-games'>Web games</a>
@@ -127,5 +132,7 @@ Example show case:
 * https://github.com/inconshreveable/ngrok
 
 ## @Try out stuff
-* Java hive
+* Dart
 * J2EE
+* Java hive
+* TypeScript
