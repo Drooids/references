@@ -33,7 +33,7 @@
 * <a href='https://github.com/hangtwenty/dive-into-machine-learning?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily'>Dive into machine learning</a>
 
 ## @Hardware
-* <a href='http://labs.arduino.org/WELCOME'>Build your own</a>
+* <a href='http://labs.arduino.org/WELCOME'>Arduino - Build your own</a>
 
 ## @Challenges
 * http://codecondo.com/coding-challenges/
