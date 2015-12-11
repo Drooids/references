@@ -26,6 +26,7 @@
 * <a href='http://www.essentialmath.com/'>Essencial</a>
 * <a href='http://mrelusive.com/books/books.html'>All in one </a>
 * <a href='http://gamedev.stackexchange.com/questions/1265/must-read-game-development-books'>Cool books</a>
+* <a href='http://gamedev.stackexchange.com/questions/16362/what-is-a-good-book-on-physics-for-game-development'>Game physics</a>
 * <a href='http://impactjs.com/'>Game engine - impactjs</a>
 
 ## @Data Mining
