@@ -133,9 +133,9 @@ Example show case:
 * https://github.com/inconshreveable/ngrok
 
 ## @Try out stuff
-* <a href='http://www.coronalabs.com/'>coronalabs</a>
-* Dart
-* J2EE
-* Java hive
-* TypeScript
-* http://xamarin.com/
+* <a href='http://www.coronalabs.com/'>Coronalabs</a>
+* <a href='https://www.dartlang.org'>Dart</a>
+* <a href='http://www.oracle.com/technetwork/java/javaee/overview/index.html'>J2EE</a>
+* <a href='cwiki.apache.org/confluence/display/Hive/HiveClient'>Java hive</a>
+* <a href='http://www.typescriptlang.org/'>TypeScript</a>
+* <a href='http://xamarin.com/'>Xamarin</a>
