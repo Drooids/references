@@ -98,6 +98,7 @@
 * https://c9.io
 * https://goo.gl/B19VDe
 * https://webftp.dreamhost.com/ws-WebFTP/public_html
+* http://www.uralys.com/
 
 ## @Self-host apps
 * https://github.com/Drooids/awesome-selfhosted
