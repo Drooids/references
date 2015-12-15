@@ -76,6 +76,7 @@
 **Framework**
 * https://github.com/showcases/front-end-javascript-frameworks
 * https://github.com/dojo/dojo
+* https://github.com/vuejs/vue
 
 ## @Web Frameworks
 **Client/Server Side**
@@ -140,3 +141,4 @@ Example show case:
 * <a href='cwiki.apache.org/confluence/display/Hive/HiveClient'>Java hive</a>
 * <a href='http://www.typescriptlang.org/'>TypeScript</a>
 * <a href='http://xamarin.com/'>Xamarin</a>
+* <a href='https://github.com/michaelvillar/dynamics.js'>Dynamics.js</a>
