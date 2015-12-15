@@ -73,7 +73,7 @@
 **Plugins**<br>
 * http://angular-ui.github.io/
 
-**Framework**
+**Frameworks**
 * https://github.com/showcases/front-end-javascript-frameworks
 * https://github.com/dojo/dojo
 * https://github.com/vuejs/vue
