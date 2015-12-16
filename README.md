@@ -28,6 +28,8 @@
 * <a href='http://gamedev.stackexchange.com/questions/1265/must-read-game-development-books'>Cool books</a>
 * <a href='http://gamedev.stackexchange.com/questions/16362/what-is-a-good-book-on-physics-for-game-development'>Game physics</a>
 * <a href='http://impactjs.com/'>Game engine - impactjs</a>
+* <a href='http://www.3dbuzz.com/'>3dbuzz</a>
+* <a href='https://www.garagegames.com'>garagegames</a>
 
 ## @Data Mining
 * <a href='https://github.com/hangtwenty/dive-into-machine-learning?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily'>Dive into machine learning</a>
