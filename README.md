@@ -19,6 +19,7 @@
 * <a href='https://en.wikipedia.org/wiki/Relational_algebra'>Relational Algebra</a>
 * <a href='https://en.wikipedia.org/wiki/Boolean_algebra'>Boolean Algebra</a>
 * <a href='https://en.wikipedia.org/wiki/Heyting_algebra'>Heyting Algebra</a>
+* <a href='http://blog.hackerearth.com/2015/12/artificial-intelligence-101-how-to-get-started.html?utm_campaign=activity-updates&utm_medium=email&utm_source=event-updates'>AI</a>
 
 ## @Game Development
 * <a href='https://github.com/showcases/web-games'>Web games</a>
