@@ -148,3 +148,18 @@ Example show case:
 * <a href='http://www.typescriptlang.org/'>TypeScript</a>
 * <a href='http://xamarin.com/'>Xamarin</a>
 * <a href='https://github.com/michaelvillar/dynamics.js'>Dynamics.js</a>
+
+## Todo
+* Basic Distro
+* Programming language
+* Compiler
+* Text Editor
+* GUI
+* Web Browser
+* Package manager
+* Tons of games
+  * 2d
+    * ...
+  * 3d
+    * ...
+* Drawing program
