@@ -151,15 +151,15 @@ Example show case:
 
 ## Todo
 * Basic Distro
-* Programming language
+* Programming Language
 * Compiler
 * Text Editor
 * GUI
 * Web Browser
-* Package manager
-* Tons of games
-  * 2d
+* Package Manager
+* Tons of Games
+  * 2D
     * ...
-  * 3d
+  * 3D
     * ...
-* Drawing program
+* Drawing Program
