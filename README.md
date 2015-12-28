@@ -34,6 +34,7 @@
 * <a href='http://www.3dbuzz.com/'>3dbuzz</a>
 * <a href='https://www.garagegames.com'>garagegames</a>
 * <a href='http://blog.hackerearth.com/2015/12/artificial-intelligence-101-how-to-get-started.html?utm_campaign=activity-updates&utm_medium=email&utm_source=event-updates'>AI</a>
+* <a href='https://playcanvas.com'>playcanvas</a>
 
 ## @Data Mining
 * <a href='https://github.com/hangtwenty/dive-into-machine-learning?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily'>Dive into machine learning</a>
