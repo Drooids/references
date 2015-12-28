@@ -36,6 +36,9 @@
 * <a href='http://blog.hackerearth.com/2015/12/artificial-intelligence-101-how-to-get-started.html?utm_campaign=activity-updates&utm_medium=email&utm_source=event-updates'>AI</a>
 * <a href='https://playcanvas.com'>playcanvas</a>
 * <a href='http://www.html5gamedevs.com/'>html5gamedevs</a>
+* <a href='http://opengameart.org/'>opengameart</a>
+* <a href='http://letsmakegames.org/'>letsmakegames</a>
+* <a href='http://www.pixelprospector.com/the-big-list-of-royalty-free-graphics/'>pixelprospector</a>
 
 ## @Data Mining
 * <a href='https://github.com/hangtwenty/dive-into-machine-learning?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily'>Dive into machine learning</a>
