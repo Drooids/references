@@ -39,6 +39,7 @@
 * <a href='http://opengameart.org/'>opengameart</a>
 * <a href='http://letsmakegames.org/'>letsmakegames</a>
 * <a href='http://www.pixelprospector.com/the-big-list-of-royalty-free-graphics/'>pixelprospector</a>
+* <a href='http://open.commonly.cc/>open.commonly</a>
 
 ## @Data Mining
 * <a href='https://github.com/hangtwenty/dive-into-machine-learning?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily'>Dive into machine learning</a>
