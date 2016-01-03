@@ -43,9 +43,10 @@
 * <a href='http://www.pixelprospector.com/the-big-list-of-royalty-free-graphics/'>pixelprospector</a>
 * <a href='http://open.commonly.cc/>open.commonly</a>
 * <a href='http://www.havok.com/engineering-havok/'>Havok</a>
-* <a href='http://www.phaser.io/'>phaser</a>
-* <a href='https://www.planet-source-code.com'>planet-source-code</a>
+* <a href='http://www.phaser.io/'>Phaser</a>
+* <a href='https://www.planet-source-code.com'>Planet-source-code</a>
 * <a href='https://github.com/Drooids/phaser-examples'>Simple but cool examples</a>
+* <a href='http://academictorrents.com/'>Academictorrents</a>
 
 ## @Data Mining
 * <a href='https://github.com/hangtwenty/dive-into-machine-learning?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily'>Dive into machine learning</a>
