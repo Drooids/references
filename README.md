@@ -47,6 +47,7 @@
 * <a href='https://www.planet-source-code.com'>Planet-source-code</a>
 * <a href='https://github.com/Drooids/phaser-examples'>Simple but cool examples</a>
 * <a href='http://academictorrents.com/'>Academictorrents</a>
+* <a href='http://www.classicempire.com/'>Classicempire</a>
 
 ## @Data Mining
 * <a href='https://github.com/hangtwenty/dive-into-machine-learning?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily'>Dive into machine learning</a>
@@ -174,6 +175,7 @@ Example show case:
 * Package Manager
 * Tons of Games
   * 2D
+    * http://www.classicempire.com/
     * ...
   * 3D
     * ...
