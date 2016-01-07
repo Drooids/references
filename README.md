@@ -23,6 +23,7 @@
 * <a href='http://blog.hackerearth.com/2015/12/artificial-intelligence-101-how-to-get-started.html?utm_campaign=activity-updates&utm_medium=email&utm_source=event-updates'>AI</a>
 * <a href='https://hamk.finna.fi'>Hamk.finna.fi</a>
 * <a href='http://www.intechopen.com/'>Intechopen</a>
+* <a hrf='http://gamedevgeek.com/tutorials/getting-started-with-sdl/'>SDL</a>
 
 ## @Game Development
 * <a href='https://github.com/showcases/web-games'>Web games</a>
@@ -178,6 +179,7 @@ Example show case:
     * http://www.classicempire.com/
     * ...
   * 3D
+    * <a hrf='http://gamedevgeek.com/tutorials/getting-started-with-sdl/'>SDL</a>
     * ...
 * Drawing Program
 * E-book reader(support all file types)
