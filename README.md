@@ -188,5 +188,5 @@ Example show case:
 * E-book reader(support all file types)
 * https://github.com/Drooids/LaserWeb
 * http://www.netsurf-browser.org/
-* Hand writing to computer letters(<a href='http://stackoverflow.com/questions/1206284/algorithm-for-hand-writing-recognition'>Couple of info</a>
+* Hand writing to computer letters(<a href='http://stackoverflow.com/questions/1206284/algorithm-for-hand-writing-recognition'>Couple of info</a>)
 * Go lang
