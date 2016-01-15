@@ -51,6 +51,7 @@
 * <a href='http://academictorrents.com/'>Academictorrents</a>
 * <a href='http://www.classicempire.com/'>Classicempire</a>
 * <a href='http://www.pixijs.com/projects/'>Pixijs</a>
+* <a href='http://osgameclones.com/'>Tons of OPS games</a>
 
 ## @Data Mining
 * <a href='https://github.com/hangtwenty/dive-into-machine-learning?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily'>Dive into machine learning</a>
