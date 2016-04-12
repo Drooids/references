@@ -159,6 +159,7 @@ Example show case:
 * http://www.qt.io/developers/ <br>
 * https://playbook.cio.gov
 * http://blacktie.co/
+* https://github.com/Drooids/blur-admin
 
 ## @Tools
 * https://github.com/inconshreveable/ngrok
