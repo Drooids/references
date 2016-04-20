@@ -1,5 +1,5 @@
 ## @Academic
-* <a href='http://thecodeship.com/general/quality-computer-science-education-free-yes-please/'>**CS Degree**</a>
+* <a href='http://thecodeship.com/general/quality-computer-science-education-free-yes-please/'>**CS Degree** (<a href='https://github.com/Drooids/TheCodeShip'>Backu</a>)</a>
 * <a href='http://stackoverflow.com/questions/107059/how-much-mathematics-and-physics-should-a-programmer-know'>**Math -> Physics -> Programming**</a>
 * <a href='http://www.bestcollegereviews.org/top/online-computer-science-programs/bestcollegereviews'>Bestcollegereviews</a>
 * <a href='http://ocw.mit.edu/courses/'>MIT</a>
