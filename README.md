@@ -27,6 +27,7 @@
 * <a href='http://gamedevgeek.com/tutorials/getting-started-with-sdl/'>SDL</a>
 * <a href='https://github.com/isislovecruft/library?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily'>Isislovecruft</a>
 * <a href='https://github.com/Drooids/AlgorithmVisualizer'>Visual Algorithms</a>
+* <a href='https://yandexdataschool.com/edu-process/program/computer-science'>Yandex School</a>
 
 ## @Game Development
 * <a href='https://github.com/showcases/web-games'>Web games</a>
